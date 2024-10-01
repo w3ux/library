@@ -9,7 +9,7 @@
     "build": "tsup src/**/* --format esm,cjs --target es2022 --dts --no-splitting"
   },
   "dependencies": {
-    "@polkadot/keyring": "^12.6.2",
+    "@polkadot/keyring": "^13.0.2",
     "@polkadot/util": "^12.6.2",
     "bignumber.js": "^9.1.1"
   },
