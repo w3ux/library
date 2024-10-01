@@ -10,7 +10,7 @@
   "dependencies": {
     "@chainsafe/metamask-polkadot-adapter": "^0.6.0",
     "@polkadot/util": "^12.6.2",
-    "@polkagate/extension-dapp": "^0.46.13",
+    "@polkagate/extension-dapp": "^0.48.2",
     "@w3ux/extension-assets": "^0.3.1",
     "@w3ux/hooks": "^1.1.0",
     "@w3ux/utils": "^0.4.0"
