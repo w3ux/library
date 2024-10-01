@@ -1753,13 +1753,6 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@w3ux/types@npm:^0.1.0":
-  version: 0.1.0
-  resolution: "@w3ux/types@npm:0.1.0"
-  checksum: 10c0/b7e55a4dea37298c5e34edf16cd049ef4b5e0a1f28bfe927f6615a31fc1c6e0810c509bbac20530256725f2438348979d7b750da9a03732d2e8214ab4ea9859c
-  languageName: node
-  linkType: hard
-
 "@w3ux/types@npm:^0.2.0":
   version: 0.2.0
   resolution: "@w3ux/types@npm:0.2.0"
@@ -1774,7 +1767,7 @@ __metadata:
     "@polkadot/keyring": "npm:^12.6.2"
     "@polkadot/util": "npm:^12.6.2"
     "@types/react": "npm:^18"
-    "@w3ux/types": "npm:^0.1.0"
+    "@w3ux/types": "npm:^0.2.0"
     bignumber.js: "npm:^9.1.1"
     react: "npm:^18"
     tsup: "npm:^8.0.2"
