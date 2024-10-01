@@ -8,7 +8,7 @@
     "build": "gulp --silent"
   },
   "dependencies": {
-    "@polkadot/util": "^12.6.2",
+    "@polkadot/util": "^13.0.2",
     "@w3ux/utils": "^0.4.0",
     "framer-motion": "^11.2.10"
   },

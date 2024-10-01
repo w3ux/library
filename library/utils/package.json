@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@polkadot/keyring": "^12.6.2",
-    "@polkadot/util": "^12.6.2",
+    "@polkadot/util": "^13.0.2",
     "bignumber.js": "^9.1.1"
   },
   "devDependencies": {
