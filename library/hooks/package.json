@@ -8,16 +8,16 @@
     "build": "gulp --silent"
   },
   "peerDependencies": {
-    "react": "^18"
+    "react": "^19"
   },
   "devDependencies": {
-    "@types/react": "^18",
+    "@types/react": "^19",
     "@w3ux/types": "^1.0.0",
     "gulp": "^5.0.0",
     "gulp-sourcemaps": "^3.0.0",
     "gulp-strip-comments": "^2.6.0",
     "gulp-typescript": "^6.0.0-alpha.1",
-    "react": "^18",
+    "react": "^19",
     "typescript": "^5.4.5"
   },
   "dependencies": {

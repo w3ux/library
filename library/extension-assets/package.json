@@ -8,10 +8,10 @@
     "build": "tsup .build/**/*{.ts,.tsx} --format esm,cjs --target es2022 --dts --no-splitting"
   },
   "peerDependencies": {
-    "react": "^18"
+    "react": "^19"
   },
   "devDependencies": {
-    "@types/react": "^18",
-    "react": "^18"
+    "@types/react": "^19",
+    "react": "^19"
   }
 }
