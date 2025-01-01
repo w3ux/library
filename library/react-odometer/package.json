@@ -10,7 +10,7 @@
   "devDependencies": {
     "@types/react": "^18",
     "gulp": "^5.0.0",
-    "gulp-sass": "^5.1.0",
+    "gulp-sass": "^6.0.0",
     "gulp-sourcemaps": "^3.0.0",
     "gulp-strip-comments": "^2.6.0",
     "gulp-typescript": "^6.0.0-alpha.1",
