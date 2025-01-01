@@ -2141,21 +2141,12 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@w3ux/utils@npm:1.2.0":
+"@w3ux/utils@npm:1.2.0, @w3ux/utils@npm:^1.1.1-beta.9":
   version: 1.2.0
   resolution: "@w3ux/utils@npm:1.2.0"
   dependencies:
     "@polkadot-api/substrate-bindings": "npm:^0.9.3"
   checksum: 10c0/3836b4d8c6e0f59ef5f59aabbaab508c4fcec1e500bd9d8ac20ee638c5f96d1360053523558265696bbf1878752e18c47d30912291b8c9bb9f197eadfa4fa777
-  languageName: node
-  linkType: hard
-
-"@w3ux/utils@npm:^1.1.1-beta.9":
-  version: 1.1.1-beta.9
-  resolution: "@w3ux/utils@npm:1.1.1-beta.9"
-  dependencies:
-    "@polkadot-api/substrate-bindings": "npm:^0.9.3"
-  checksum: 10c0/b18cf8274d43cf3419e8b47fc822164653da7a48a83a6eb84820b9fe14386e5f167ad1f634bfddac938f472839bc605e9bb04e8a88cfd12223b5b40b24730934
   languageName: node
   linkType: hard
 
