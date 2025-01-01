@@ -27,7 +27,7 @@
     "minimist": "^1.2.8",
     "postcss": "^8.4.38",
     "prettier": "^3.3.1",
-    "prettier-plugin-organize-imports": "^3.2.4",
+    "prettier-plugin-organize-imports": "^4.1.0",
     "tsc": "^2.0.4",
     "tslib": "^2.6.2",
     "typescript": "^5.4.5",
