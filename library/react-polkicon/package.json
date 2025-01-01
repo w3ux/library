@@ -8,7 +8,7 @@
     "build": "gulp --silent"
   },
   "dependencies": {
-    "@polkadot-api/substrate-bindings": "^0.9.3",
+    "@polkadot-api/substrate-bindings": "^0.11.0",
     "@w3ux/crypto": "1.0.0"
   },
   "devDependencies": {

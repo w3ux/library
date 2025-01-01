@@ -9,7 +9,7 @@
     "build": "tsup src/**/* --format esm,cjs --target es2022 --dts --no-splitting"
   },
   "dependencies": {
-    "@polkadot-api/substrate-bindings": "^0.9.3"
+    "@polkadot-api/substrate-bindings": "^0.11.0"
   },
   "devDependencies": {
     "@types/react": "^18",
